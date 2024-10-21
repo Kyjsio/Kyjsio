@@ -6,8 +6,8 @@ Computer science student at the "Uniwersytet Komisji Edukacji na Narodowej"
 * 🌍  I'm based in Cracow
 * ✉️  You can contact me at [kghtrzcinski@gmail.com](mailto:kghtrzcinski@gmail.com) 
 * 👀 I’m interested in....
-  *🛠️ New technologies - who doesn't like technological innovations?*
-  *⚡Data/Database - more data more "fun"*
+  <p>*🛠️ New technologies - who doesn't like technological innovations?*</p>
+  <p>*⚡Data/Database - more data more "fun"*</p>
 
   
 ### Skills
